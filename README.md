@@ -535,23 +535,9 @@ Maven provides:
 | **Java Networking** | HTTP server implementation |
 | **Java NIO** | File reading for static content |
 
----
-
-## License
-
-This project is developed as part of an academic workshop and is available under the MIT License.
-
----
 
 ## Author
 
 **Angel Cuervo**  
-Server Architecture Workshop  
 Escuela Colombiana de Ingeniería Julio Garavito
 
----
-
-## Acknowledgments
-
-- This project was inspired by Spring Framework's design patterns
-- Thanks to the Server Architecture course for the learning opportunity
