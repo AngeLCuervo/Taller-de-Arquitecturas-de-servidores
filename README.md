@@ -420,10 +420,11 @@ The project includes comprehensive tests for:
 ```bash
 ssh -i your-key.pem ec2-user@your-instance-ip
 
-<img width="629" height="223" alt="image" src="https://github.com/user-attachments/assets/94220ea7-079e-468e-a3cd-ad42a7823696" />
-
-
 ```
+<img width="629" height="223" alt="Captura de pantalla 2026-03-10 220900" src="https://github.com/user-attachments/assets/1720afe2-32d9-43e2-a589-fd6163151915" />
+
+
+
 
 #### 2. Install Java 17
 
