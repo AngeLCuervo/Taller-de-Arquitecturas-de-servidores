@@ -466,6 +466,10 @@ java -jar target/microspring-1.0-SNAPSHOT.jar
 nohup java -jar target/microspring-1.0-SNAPSHOT.jar > server.log 2>&1 &
 ```
 
+
+<img width="734" height="446" alt="Captura de pantalla 2026-03-10 195423" src="https://github.com/user-attachments/assets/df0c3e5c-a8b8-47b3-9442-3a8abcabb8a3" />
+
+
 #### 6. Configure Security Group
 
 In AWS Console:
@@ -475,6 +479,11 @@ In AWS Console:
    - Type: Custom TCP
    - Port: 8080
    - Source: 0.0.0.0/0 (or your IP)
+  
+
+<img width="955" height="491" alt="Captura de pantalla 2026-03-10 200950" src="https://github.com/user-attachments/assets/b0e95e64-ac8a-453b-bf73-17ec0a9eac8b" />
+
+
 
 #### 7. Access the application
 
@@ -483,6 +492,15 @@ http://your-ec2-public-ip:8080
 ```
 
 ### Deployment Evidence
+
+<img width="1920" height="1080" alt="Captura de pantalla 2026-03-10 201558" src="https://github.com/user-attachments/assets/b7a0edb2-9422-45e7-ab52-452812c9f19f" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-03-10 201546" src="https://github.com/user-attachments/assets/92afb84c-5524-4fb6-b20e-31c6bdf0c52d" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-03-10 201536" src="https://github.com/user-attachments/assets/6dd60002-3046-4c15-8c16-d8bc1c041355" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-03-10 201524" src="https://github.com/user-attachments/assets/58cda762-658b-4481-9a82-e97ca74d6a42" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-03-10 201510" src="https://github.com/user-attachments/assets/2f82034b-02fd-43de-964b-0ecb6badeb8a" />
+<img width="1913" height="1071" alt="Captura de pantalla 2026-03-10 201222" src="https://github.com/user-attachments/assets/bc1474b3-d101-4448-901a-13c3bbaa280b" />
+<img width="1920" height="1080" alt="Captura de pantalla 2026-03-10 201608" src="https://github.com/user-attachments/assets/de61f7f7-f145-4e2f-928b-e05f8ab5b27e" />
+
 
 ## Design Decisions
 
